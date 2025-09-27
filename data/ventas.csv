@@ -1,0 +1,7 @@
+id_venta,id_producto,cantidad,cliente
+101,1,2,Juan Perez
+102,3,1,Ana Gómez
+103,2,,Carlos Ruiz
+104,5,3,   maria lopez
+105,3,2,Juan Perez
+106,1,1,Andres

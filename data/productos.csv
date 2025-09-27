@@ -1,0 +1,6 @@
+id_producto,nombre,precio,categoria
+1,Camisa,$45000,Ropa
+2,Pantalón,$80000,Ropa
+3,Tenis,$120000,Calzado
+4,Gorra,$25000,Accesorios
+5,Medias,,
